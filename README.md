@@ -1,4 +1,4 @@
-## Hi, I'm Quest 👋
+## Hi, I'm Quest!!
 
 Career-changer turned developer, building my way into tech one project at a time. I come at problems from a practical angle — I like shipping things that actually work and learning whatever it takes to get there.
 
