@@ -4,18 +4,19 @@ Career-changer turned developer, building my way into tech one project at a time
 
 🔭 **Currently focused on:** full-stack web development (React + Node), with hands-on work in machine learning, network security tooling, and DevOps.
 
-🌱 **Always learning:** picking up new stacks through real projects rather than just tutorials — lately CNNs with TensorFlow and packet analysis.
+🌱 **Always learning:** picking up new stacks through real projects rather than just tutorials — lately CNNs with TensorFlow, packet analysis, and low-level systems work in C#.
 
 📂 **My work lives across a few repos:**
 - [Projects](https://github.com/blackapple805/Projects) — full-stack apps, automation scripts, data/ML tools, and DevOps experiments
 - [Work](https://github.com/blackapple805/Work) — additional full-stack, ML, and tooling projects
 - [Capstone](https://github.com/blackapple805/Capstone) — CyberGuardian, a group capstone threat-detection tool
+- [neon-grid](https://github.com/blackapple805/neon-grid) — C-family / systems work (C, C++, C#); home of NEONGRID, a zero-dependency terminal visualizer
 
 ### A few things I've built
-
 - 🌐 **pcap-scope** — browser-based PCAP analysis dashboard with a 3D globe and 2D map view, offline street-level tiles, IP geolocation, and trust scoring for network traffic (JavaScript + Three.js + Leaflet)
 - 🧠 **MNIST Digit Recognition** — a convolutional neural network that classifies handwritten digits at 99.3% accuracy, with data augmentation, a saved-model pipeline, and a documented confusion-matrix breakdown (Python + TensorFlow/Keras)
 - 🛡️ **CyberGuardian** — AI-assisted cybersecurity threat-detection dashboard, built as a team capstone (React + Node + MySQL + Docker)
+- 🌧️ **NEONGRID** — zero-dependency cyberpunk "digital rain" terminal visualizer with raw ANSI true-color and a double-buffered diff renderer (C#)
 - 🕷️ **Concurrent Web Scraper** — built for speed, with HTTPS and SSRF protection (Go)
 - 📈 **Crypto Tracker** — live cryptocurrency price tracker (React + Node + Firebase)
 - 🎙️ **Video-to-Text** — extracts and transcribes audio from video (Python)
@@ -29,6 +30,7 @@ Career-changer turned developer, building my way into tech one project at a time
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 **ML & data**
 
